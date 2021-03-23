@@ -257,3 +257,2225 @@
 2021-03-23 12:38:44,198: root :INFO:Zipping all my lists in tuple: end
 2021-03-23 12:38:44,341: werkzeug :WARNING: * Debugger is active!
 2021-03-23 12:38:44,354: werkzeug :INFO: * Debugger PIN: 230-982-421
+2021-03-23 12:40:35,422: root :INFO:This is an info:
+2021-03-23 12:40:35,423: root :ERROR:This is an error:
+2021-03-23 12:40:35,882: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 12:40:35,899: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 12:40:35,900: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 12:40:35,920: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 12:40:35,920: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 12:40:35,920: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 12:40:36,291: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 12:40:36,302: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 12:40:36,319: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 12:40:36,319: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 12:40:36,493: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 12:40:36,493: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 12:40:36,512: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 12:40:36,513: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 12:40:36,917: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 12:40:36,928: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 12:40:36,929: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 12:40:36,947: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 12:40:36,947: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 12:40:36,947: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 12:40:37,361: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 12:40:37,371: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 12:40:37,389: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 12:40:37,389: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 12:40:37,788: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 12:40:37,790: werkzeug :INFO: * Restarting with stat
+2021-03-23 12:40:38,050: root :INFO:This is an info:
+2021-03-23 12:40:38,050: root :ERROR:This is an error:
+2021-03-23 12:40:38,487: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 12:40:38,500: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 12:40:38,500: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 12:40:38,520: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 12:40:38,520: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 12:40:38,520: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 12:40:38,864: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 12:40:38,875: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 12:40:38,893: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 12:40:38,894: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 12:40:38,999: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 12:40:38,999: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 12:40:39,007: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 12:40:39,007: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 12:40:39,458: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 12:40:39,471: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 12:40:39,471: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 12:40:39,491: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 12:40:39,491: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 12:40:39,491: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 12:40:39,837: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 12:40:39,848: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 12:40:39,866: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 12:40:39,866: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 12:40:39,979: werkzeug :WARNING: * Debugger is active!
+2021-03-23 12:40:39,989: werkzeug :INFO: * Debugger PIN: 230-982-421
+2021-03-23 13:00:02,727: root :INFO:This is an info:
+2021-03-23 13:00:02,728: root :ERROR:This is an error:
+2021-03-23 13:00:04,156: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 13:00:04,237: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 13:00:04,238: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 13:00:04,337: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 13:00:04,337: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:00:04,337: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:00:04,964: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 13:00:04,987: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 13:00:05,028: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:00:05,029: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:00:28,505: root :INFO:This is an info:
+2021-03-23 13:00:28,505: root :ERROR:This is an error:
+2021-03-23 13:00:29,146: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 13:00:29,166: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 13:00:29,166: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 13:00:29,208: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 13:00:29,208: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:00:29,208: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:00:30,077: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 13:00:30,100: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 13:00:30,140: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:00:30,140: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:00:30,838: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:00:30,838: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:00:30,863: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:00:30,863: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:00:31,701: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 13:00:31,724: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 13:00:31,725: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 13:00:31,762: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 13:00:31,763: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:00:31,763: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:00:32,368: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 13:00:32,389: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 13:00:32,423: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:00:32,423: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:00:32,752: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 13:00:32,755: werkzeug :INFO: * Restarting with stat
+2021-03-23 13:00:33,256: root :INFO:This is an info:
+2021-03-23 13:00:33,256: root :ERROR:This is an error:
+2021-03-23 13:00:33,684: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 13:00:33,697: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 13:00:33,697: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 13:00:33,717: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 13:00:33,717: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:00:33,717: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:00:34,342: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 13:00:34,363: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 13:00:34,388: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:00:34,389: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:00:34,586: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:00:34,587: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:00:34,610: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:00:34,610: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:00:36,272: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 13:00:36,297: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 13:00:36,300: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 13:00:36,346: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 13:00:36,347: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:00:36,347: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:00:37,515: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 13:00:37,553: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 13:00:37,604: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:00:37,606: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:00:37,953: werkzeug :WARNING: * Debugger is active!
+2021-03-23 13:00:37,984: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 13:00:44,403: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 13:00:44] "[37mGET /home_page HTTP/1.1[0m" 200 -
+2021-03-23 13:00:44,811: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 13:00:44] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 13:20:05,034: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /webscrap.py', reloading
+2021-03-23 13:20:05,836: werkzeug :INFO: * Restarting with stat
+2021-03-23 13:20:06,695: root :INFO:This is an info:
+2021-03-23 13:20:06,696: root :ERROR:This is an error:
+2021-03-23 13:20:08,250: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 13:20:08,268: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 13:20:08,268: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 13:20:08,293: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 13:20:08,293: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:20:08,293: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:20:08,699: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 13:20:08,712: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 13:20:08,729: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:20:08,730: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:20:10,375: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:20:10,375: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:20:10,385: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:20:10,385: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:20:10,854: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 13:20:10,868: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 13:20:10,868: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 13:20:10,887: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 13:20:10,887: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:20:10,887: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:20:11,244: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 13:20:11,255: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 13:20:11,272: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:20:11,272: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:20:11,637: werkzeug :WARNING: * Debugger is active!
+2021-03-23 13:20:11,650: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 13:20:20,859: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /webscrap.py', reloading
+2021-03-23 13:20:21,075: werkzeug :INFO: * Restarting with stat
+2021-03-23 13:20:21,568: root :INFO:This is an info:
+2021-03-23 13:20:21,569: root :ERROR:This is an error:
+2021-03-23 13:20:22,108: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 13:20:22,123: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 13:20:22,123: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 13:20:22,143: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 13:20:22,143: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:20:22,143: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:20:22,524: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 13:20:22,534: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 13:20:22,552: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:20:22,552: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:20:23,433: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:20:23,433: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:20:23,447: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:20:23,448: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:20:23,984: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 13:20:24,008: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 13:20:24,008: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 13:20:24,032: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 13:20:24,032: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:20:24,032: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:20:24,505: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 13:20:24,521: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 13:20:24,548: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:20:24,548: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:20:24,713: werkzeug :WARNING: * Debugger is active!
+2021-03-23 13:20:24,720: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 13:20:57,756: root :INFO:This is an info:
+2021-03-23 13:20:57,758: root :ERROR:This is an error:
+2021-03-23 13:20:58,438: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 13:20:58,456: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 13:20:58,456: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 13:20:58,477: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 13:20:58,478: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:20:58,478: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 13:20:58,885: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 13:20:58,900: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 13:20:58,924: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 13:20:58,925: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:09,926: root :INFO:This is an info:
+2021-03-23 14:08:09,928: root :ERROR:This is an error:
+2021-03-23 14:08:10,476: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:08:10,494: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:08:10,494: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:08:10,514: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:08:10,515: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:08:10,515: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:11,945: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:08:11,956: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:08:11,974: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:08:11,974: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:20,323: root :INFO:This is an info:
+2021-03-23 14:08:20,324: root :ERROR:This is an error:
+2021-03-23 14:08:20,812: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:08:20,831: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:08:20,831: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:08:20,851: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:08:20,851: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:08:20,851: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:21,462: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:08:21,474: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:08:21,494: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:08:21,494: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:22,816: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:08:22,818: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:22,864: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:08:22,864: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:23,462: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:08:23,477: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:08:23,477: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:08:23,502: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:08:23,502: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:08:23,502: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:23,868: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:08:23,880: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:08:23,898: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:08:23,898: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:24,242: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:08:24,243: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:08:24,528: root :INFO:This is an info:
+2021-03-23 14:08:24,528: root :ERROR:This is an error:
+2021-03-23 14:08:24,978: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:08:24,992: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:08:24,992: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:08:25,012: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:08:25,012: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:08:25,012: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:25,414: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:08:25,425: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:08:25,444: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:08:25,444: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:26,481: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:08:26,481: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:26,500: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:08:26,501: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:27,087: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:08:27,103: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:08:27,104: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:08:27,127: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:08:27,127: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:08:27,128: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:27,936: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:08:27,977: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:08:28,005: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:08:28,005: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:08:28,279: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:08:28,318: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:09:18,516: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /webscrap.py', reloading
+2021-03-23 14:09:18,758: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:09:19,347: root :INFO:This is an info:
+2021-03-23 14:09:19,347: root :ERROR:This is an error:
+2021-03-23 14:09:19,952: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:09:19,988: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:09:19,988: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:09:20,022: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:09:20,022: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:09:20,023: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:09:20,464: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:09:20,480: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:09:20,501: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:09:20,501: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:09:43,493: root :INFO:This is an info:
+2021-03-23 14:09:43,493: root :ERROR:This is an error:
+2021-03-23 14:09:43,920: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:09:43,937: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:09:43,937: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:09:43,958: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:09:43,958: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:09:43,958: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:09:44,415: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:09:44,433: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:09:44,451: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:09:44,451: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:12:34,923: root :INFO:This is an info:
+2021-03-23 14:12:34,923: root :ERROR:This is an error:
+2021-03-23 14:12:35,403: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:12:35,417: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:12:35,417: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:12:35,440: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:12:35,440: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:12:35,440: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:12:35,793: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:12:35,803: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:12:35,821: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:12:35,822: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:02,726: root :INFO:This is an info:
+2021-03-23 14:13:02,726: root :ERROR:This is an error:
+2021-03-23 14:13:03,238: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:13:03,253: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:13:03,254: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:13:03,284: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:13:03,285: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:13:03,285: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:03,636: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:13:03,653: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:13:03,671: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:13:03,671: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:18,306: root :INFO:This is an info:
+2021-03-23 14:13:18,306: root :ERROR:This is an error:
+2021-03-23 14:13:18,764: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:13:18,782: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:13:18,782: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:13:18,805: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:13:18,805: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:13:18,805: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:19,273: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:13:19,290: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:13:19,308: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:13:19,309: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:19,474: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:13:19,474: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:19,485: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:13:19,485: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:19,972: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:13:19,990: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:13:19,990: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:13:20,016: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:13:20,016: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:13:20,016: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:20,430: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:13:20,452: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:13:20,487: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:13:20,488: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:20,894: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:13:20,897: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:13:21,201: root :INFO:This is an info:
+2021-03-23 14:13:21,201: root :ERROR:This is an error:
+2021-03-23 14:13:21,704: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:13:21,730: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:13:21,730: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:13:21,774: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:13:21,774: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:13:21,775: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:22,310: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:13:22,323: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:13:22,349: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:13:22,349: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:22,460: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:13:22,460: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:22,472: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:13:22,472: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:22,914: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:13:22,926: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:13:22,927: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:13:22,947: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:13:22,947: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:13:22,947: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:23,336: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:13:23,364: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:13:23,409: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:13:23,409: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:13:23,603: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:13:23,616: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:14:00,794: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:14:00] "[35m[1mGET /home_page HTTP/1.1[0m" 500 -
+2021-03-23 14:14:01,365: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:14:01] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:14:01,366: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:14:01] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:14:01,368: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:14:01] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:14:02,124: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:14:02] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:14:02,684: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:14:02] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:14:03,128: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:14:03] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:14:28,514: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:14:28,918: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:14:29,899: root :INFO:This is an info:
+2021-03-23 14:14:29,900: root :ERROR:This is an error:
+2021-03-23 14:14:30,479: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:14:30,504: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:14:30,504: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:14:30,525: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:14:30,525: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:14:30,525: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:14:31,136: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:14:31,157: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:14:31,179: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:14:31,180: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:14:31,457: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:14:31,458: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:14:31,502: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:14:31,503: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:14:32,278: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:14:32,292: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:14:32,292: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:14:32,315: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:14:32,315: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:14:32,315: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:14:32,797: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:14:32,811: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:14:32,836: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:14:32,836: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:14:33,197: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:14:33,206: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:14:33,223: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:14:33] "[37mGET /home_page HTTP/1.1[0m" 200 -
+2021-03-23 14:14:33,413: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:14:33] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:14:58,839: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:14:59,047: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:14:59,449: root :INFO:This is an info:
+2021-03-23 14:14:59,449: root :ERROR:This is an error:
+2021-03-23 14:15:00,017: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:15:00,033: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:15:00,033: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:15:00,058: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:15:00,058: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:00,058: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:00,500: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:15:00,513: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:15:00,531: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:00,531: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:00,651: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:00,651: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:00,662: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:00,662: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:01,069: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:15:01,082: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:15:01,082: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:15:01,105: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:15:01,105: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:01,105: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:01,492: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:15:01,503: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:15:01,527: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:01,527: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:01,664: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:15:01,671: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:15:05,024: root :INFO:This is an info:
+2021-03-23 14:15:05,024: root :ERROR:This is an error:
+2021-03-23 14:15:05,551: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:15:05,570: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:15:05,570: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:15:05,593: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:15:05,593: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:05,593: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:05,930: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:15:05,942: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:15:05,960: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:05,960: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:06,021: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:06,022: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:06,033: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:06,033: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:06,412: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:15:06,425: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:15:06,425: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:15:06,445: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:15:06,445: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:06,445: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:06,861: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:15:06,873: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:15:06,898: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:06,898: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:07,154: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:15:07,156: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:15:07,733: root :INFO:This is an info:
+2021-03-23 14:15:07,734: root :ERROR:This is an error:
+2021-03-23 14:15:08,959: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:15:08,986: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:15:08,986: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:15:09,042: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:15:09,042: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:09,042: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:09,609: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:15:09,645: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:15:09,729: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:09,729: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:10,076: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:10,077: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:10,106: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:10,106: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:11,045: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:15:11,086: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:15:11,086: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:15:11,138: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:15:11,138: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:11,138: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:11,612: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:15:11,624: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:15:11,644: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:15:11,645: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:15:11,883: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:15:11,896: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:15:11,929: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:15:11] "[35m[1mGET /home_page HTTP/1.1[0m" 500 -
+2021-03-23 14:15:12,122: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:15:12] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:15:12,133: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:15:12] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:15:12,135: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:15:12] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:15:12,399: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:15:12] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:15:12,611: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:15:12] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:15:12,692: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:15:12] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:19:05,855: root :INFO:This is an info:
+2021-03-23 14:19:05,856: root :ERROR:This is an error:
+2021-03-23 14:19:06,259: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:19:06,274: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:19:06,274: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:19:06,294: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:19:06,294: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:19:06,294: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:19:06,656: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:19:06,667: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:19:06,685: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:19:06,685: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:19:06,917: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:19:06,917: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:19:06,938: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:19:06,939: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:19:07,328: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:19:07,343: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:19:07,343: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:19:07,369: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:19:07,369: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:19:07,369: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:19:07,711: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:19:07,722: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:19:07,740: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:19:07,740: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:19:08,094: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:19:08,097: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:19:08,348: root :INFO:This is an info:
+2021-03-23 14:19:08,348: root :ERROR:This is an error:
+2021-03-23 14:19:08,785: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:19:08,802: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:19:08,802: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:19:08,824: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:19:08,824: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:19:08,824: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:19:09,181: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:19:09,193: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:19:09,212: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:19:09,212: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:19:09,603: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:19:09,603: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:19:09,627: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:19:09,627: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:19:11,472: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:19:11,553: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:19:11,553: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:19:11,646: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:19:11,646: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:19:11,647: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:19:12,691: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:19:12,717: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:19:12,751: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:19:12,752: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:19:13,003: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:19:13,020: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:19:13,076: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:19:13] "[35m[1mGET /home_page HTTP/1.1[0m" 500 -
+2021-03-23 14:19:14,381: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:19:14] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:19:14,385: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:19:14] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:19:14,388: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:19:14] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:19:14,996: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:19:14] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:19:15,024: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:19:15] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:19:15,127: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:19:15] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:20:01,299: root :INFO:This is an info:
+2021-03-23 14:20:01,299: root :ERROR:This is an error:
+2021-03-23 14:20:01,858: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:20:01,891: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:20:01,891: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:20:01,914: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:20:01,914: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:01,915: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:02,287: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:20:02,298: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:20:02,320: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:02,320: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:02,506: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:02,507: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:02,514: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:02,515: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:03,006: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:20:03,018: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:20:03,018: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:20:03,039: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:20:03,040: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:03,040: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:03,396: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:20:03,410: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:20:03,432: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:03,432: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:03,775: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:20:03,777: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:20:04,044: root :INFO:This is an info:
+2021-03-23 14:20:04,044: root :ERROR:This is an error:
+2021-03-23 14:20:04,465: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:20:04,480: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:20:04,480: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:20:04,503: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:20:04,504: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:04,504: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:05,118: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:20:05,255: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:20:05,438: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:05,439: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:06,081: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:06,082: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:06,092: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:06,093: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:06,716: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:20:06,733: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:20:06,733: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:20:06,754: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:20:06,754: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:06,754: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:07,240: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:20:07,253: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:20:07,278: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:07,281: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:07,440: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:20:07,464: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:20:07,496: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:07] "[35m[1mGET /home_page HTTP/1.1[0m" 500 -
+2021-03-23 14:20:07,692: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:07] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:20:07,702: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:07] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:20:07,704: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:07] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:20:07,829: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:07] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:20:08,019: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:08] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:20:08,050: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:08] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:20:23,932: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:20:24,209: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:20:25,045: root :INFO:This is an info:
+2021-03-23 14:20:25,046: root :ERROR:This is an error:
+2021-03-23 14:20:25,699: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:20:25,730: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:20:25,730: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:20:25,767: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:20:25,767: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:25,767: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:26,155: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:20:26,175: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:20:26,194: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:26,194: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:26,674: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:26,674: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:26,685: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:26,685: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:28,298: root :INFO:This is an info:
+2021-03-23 14:20:28,298: root :ERROR:This is an error:
+2021-03-23 14:20:28,733: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:20:28,752: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:20:28,753: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:20:28,773: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:20:28,774: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:28,774: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:29,120: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:20:29,131: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:20:29,148: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:29,149: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:29,205: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:29,205: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:29,218: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:29,219: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:29,778: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:20:29,791: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:20:29,791: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:20:29,810: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:20:29,810: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:29,810: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:30,303: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:20:30,315: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:20:30,336: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:30,337: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:30,668: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:20:30,670: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:20:30,952: root :INFO:This is an info:
+2021-03-23 14:20:30,952: root :ERROR:This is an error:
+2021-03-23 14:20:31,693: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:20:31,708: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:20:31,708: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:20:31,740: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:20:31,741: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:31,742: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:32,358: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:20:32,375: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:20:32,412: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:32,412: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:32,692: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:32,692: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:32,711: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:32,711: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:33,178: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:20:33,192: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:20:33,193: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:20:33,215: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:20:33,215: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:33,215: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:33,649: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:20:33,663: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:20:33,683: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:33,683: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:33,863: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:20:33,878: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:20:33,886: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:33] "[31m[1mGET /home_page HTTP/1.1[0m" 405 -
+2021-03-23 14:20:42,244: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:20:42,460: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:20:43,347: root :INFO:This is an info:
+2021-03-23 14:20:43,347: root :ERROR:This is an error:
+2021-03-23 14:20:43,903: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:20:43,918: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:20:43,919: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:20:43,939: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:20:43,939: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:43,939: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:44,348: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:20:44,359: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:20:44,376: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:44,377: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:44,480: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:44,481: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:44,498: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:44,498: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:44,906: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:20:44,926: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:20:44,926: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:20:44,946: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:20:44,946: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:44,946: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:45,332: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:20:45,344: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:20:45,362: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:20:45,362: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:20:45,493: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:20:45,510: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:20:47,291: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:47] "[35m[1mGET /home_page HTTP/1.1[0m" 500 -
+2021-03-23 14:20:47,503: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:47] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:20:47,505: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:47] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:20:47,507: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:47] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:20:47,828: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:47] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:20:48,027: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:48] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:20:48,088: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:20:48] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:21:41,725: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:21:41] "[35m[1mGET /home_page HTTP/1.1[0m" 500 -
+2021-03-23 14:21:41,904: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:21:41] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:21:41,909: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:21:41] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:21:41,911: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:21:41] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:21:42,274: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:21:42] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:21:42,410: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:21:42] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:21:42,481: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:21:42] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:24:06,223: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:24:06,661: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:24:07,446: root :INFO:This is an info:
+2021-03-23 14:24:07,447: root :ERROR:This is an error:
+2021-03-23 14:24:07,983: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:24:08,009: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:24:08,009: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:24:08,047: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:24:08,047: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:08,048: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:08,473: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:24:08,484: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:24:08,504: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:08,504: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:08,681: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:08,681: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:08,691: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:08,692: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:09,134: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:24:09,153: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:24:09,153: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:24:09,172: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:24:09,172: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:09,172: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:09,669: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:24:09,680: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:24:09,699: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:09,699: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:10,038: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:24:10,050: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:24:32,676: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:24:32,919: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:24:33,712: root :INFO:This is an info:
+2021-03-23 14:24:33,713: root :ERROR:This is an error:
+2021-03-23 14:24:34,172: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:24:34,188: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:24:34,188: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:24:34,207: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:24:34,207: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:34,207: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:34,581: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:24:34,592: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:24:34,609: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:34,610: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:34,756: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:34,757: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:34,811: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:34,811: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:35,187: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:24:35,199: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:24:35,199: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:24:35,217: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:24:35,218: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:35,218: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:35,561: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:24:35,571: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:24:35,589: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:35,589: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:35,929: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:24:35,939: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:24:41,066: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:24:41] "[35m[1mGET /home_page HTTP/1.1[0m" 500 -
+2021-03-23 14:24:41,316: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:24:41] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:24:41,318: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:24:41] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:24:41,319: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:24:41] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:24:41,571: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:24:41] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:24:41,747: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:24:41] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:24:41,831: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:24:41] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:24:49,699: root :INFO:This is an info:
+2021-03-23 14:24:49,699: root :ERROR:This is an error:
+2021-03-23 14:24:50,124: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:24:50,146: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:24:50,146: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:24:50,172: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:24:50,172: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:50,172: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:50,516: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:24:50,527: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:24:50,545: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:50,545: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:50,685: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:50,685: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:50,692: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:50,692: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:51,091: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:24:51,102: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:24:51,102: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:24:51,121: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:24:51,121: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:51,122: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:51,454: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:24:51,464: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:24:51,482: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:51,482: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:51,835: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:24:51,842: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:24:52,096: root :INFO:This is an info:
+2021-03-23 14:24:52,096: root :ERROR:This is an error:
+2021-03-23 14:24:52,712: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:24:52,732: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:24:52,733: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:24:52,757: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:24:52,757: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:52,758: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:53,169: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:24:53,181: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:24:53,200: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:53,201: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:53,294: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:53,294: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:53,306: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:53,307: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:54,128: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:24:54,141: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:24:54,141: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:24:54,164: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:24:54,164: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:54,164: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:54,624: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:24:54,639: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:24:54,658: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:24:54,658: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:24:54,819: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:24:54,831: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:24:54,868: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:24:54] "[35m[1mGET /home_page HTTP/1.1[0m" 500 -
+2021-03-23 14:24:55,019: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:24:55] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:24:55,021: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:24:55] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:24:55,022: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:24:55] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:24:55,224: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:24:55] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:24:55,388: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:24:55] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:24:55,457: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:24:55] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:27:15,282: root :INFO:This is an info:
+2021-03-23 14:27:15,282: root :ERROR:This is an error:
+2021-03-23 14:27:15,762: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:27:15,777: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:27:15,777: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:27:15,801: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:27:15,801: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:15,801: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:16,148: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:27:16,159: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:27:16,177: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:16,177: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:16,354: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:16,355: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:16,370: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:16,370: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:16,741: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:27:16,753: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:27:16,753: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:27:16,773: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:27:16,773: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:16,773: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:17,282: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:27:17,297: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:27:17,317: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:17,317: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:17,719: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:27:17,722: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:27:18,000: root :INFO:This is an info:
+2021-03-23 14:27:18,000: root :ERROR:This is an error:
+2021-03-23 14:27:18,481: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:27:18,496: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:27:18,496: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:27:18,515: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:27:18,516: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:18,516: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:18,866: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:27:18,877: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:27:18,895: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:18,895: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:18,952: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:18,952: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:18,961: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:18,961: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:19,412: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:27:19,426: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:27:19,426: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:27:19,447: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:27:19,447: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:19,448: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:19,941: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:27:19,952: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:27:19,971: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:19,971: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:20,158: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:27:20,168: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:27:21,018: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:27:21] "[35m[1mGET /home_page HTTP/1.1[0m" 500 -
+2021-03-23 14:27:21,233: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:27:21] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:27:21,235: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:27:21] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:27:21,236: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:27:21] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:27:21,632: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:27:21] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:27:21,816: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:27:21] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:27:21,903: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:27:21] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:27:33,534: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:27:33,757: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:27:34,412: root :INFO:This is an info:
+2021-03-23 14:27:34,412: root :ERROR:This is an error:
+2021-03-23 14:27:35,064: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:27:35,082: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:27:35,082: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:27:35,114: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:27:35,114: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:35,114: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:35,842: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:27:35,862: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:27:36,121: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:36,121: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:36,603: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:36,603: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:36,616: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:36,616: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:37,668: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:27:37,687: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:27:37,688: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:27:37,726: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:27:37,726: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:37,726: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:38,443: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:27:38,459: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:27:38,484: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:27:38,484: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:27:38,835: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:27:38,855: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:28:11,737: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:28:12,008: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:28:15,272: root :INFO:This is an info:
+2021-03-23 14:28:15,272: root :ERROR:This is an error:
+2021-03-23 14:28:15,861: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:28:15,924: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:28:15,924: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:28:15,971: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:28:15,972: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:15,972: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:16,477: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:28:16,497: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:28:16,523: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:16,523: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:16,711: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:16,711: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:16,723: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:16,723: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:17,383: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:28:17,414: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:28:17,414: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:28:17,452: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:28:17,452: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:17,453: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:17,911: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:28:17,922: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:28:17,940: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:17,941: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:18,281: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:28:18,284: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:28:18,575: root :INFO:This is an info:
+2021-03-23 14:28:18,575: root :ERROR:This is an error:
+2021-03-23 14:28:19,091: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:28:19,105: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:28:19,105: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:28:19,125: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:28:19,125: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:19,125: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:19,615: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:28:19,637: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:28:19,664: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:19,664: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:19,745: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:19,746: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:19,759: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:19,759: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:20,376: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:28:20,415: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:28:20,416: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:28:20,450: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:28:20,451: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:20,451: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:20,899: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:28:20,914: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:28:20,933: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:20,933: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:21,097: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:28:21,113: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:28:21,123: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:28:21] "[31m[1mGET /home_page HTTP/1.1[0m" 405 -
+2021-03-23 14:28:32,517: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:28:32,883: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:28:33,728: root :INFO:This is an info:
+2021-03-23 14:28:33,729: root :ERROR:This is an error:
+2021-03-23 14:28:34,187: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:28:34,204: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:28:34,204: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:28:34,223: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:28:34,223: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:34,224: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:34,687: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:28:34,706: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:28:34,728: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:34,728: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:34,955: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:34,956: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:34,967: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:34,967: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:35,521: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:28:35,547: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:28:35,547: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:28:35,572: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:28:35,572: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:35,572: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:36,138: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:28:36,151: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:28:36,176: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:36,176: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:36,455: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:28:36,470: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:28:37,493: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:28:37,812: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:28:38,242: root :INFO:This is an info:
+2021-03-23 14:28:38,242: root :ERROR:This is an error:
+2021-03-23 14:28:38,957: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:28:38,977: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:28:38,977: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:28:39,000: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:28:39,000: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:39,000: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:39,388: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:28:39,404: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:28:39,437: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:39,437: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:39,537: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:39,538: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:39,557: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:39,557: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:40,140: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:28:40,179: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:28:40,180: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:28:40,253: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:28:40,253: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:40,254: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:40,819: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:28:40,855: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:28:41,012: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:28:41,012: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:28:41,227: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:28:41,234: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:28:43,372: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:28:43] "[35m[1mGET /home_page HTTP/1.1[0m" 500 -
+2021-03-23 14:28:43,520: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:28:43] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:28:43,723: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:28:43] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:28:43,725: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:28:43] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:28:43,916: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:28:43] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:28:44,073: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:28:44] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:28:44,123: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:28:44] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:29:04,770: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:29:05,022: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:29:05,507: root :INFO:This is an info:
+2021-03-23 14:29:05,508: root :ERROR:This is an error:
+2021-03-23 14:29:06,101: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:29:06,118: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:29:06,118: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:29:06,138: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:29:06,139: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:29:06,139: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:29:06,513: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:29:06,524: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:29:06,543: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:29:06,544: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:29:06,656: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:29:06,656: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:29:06,664: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:29:06,664: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:29:07,092: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:29:07,105: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:29:07,105: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:29:07,132: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:29:07,132: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:29:07,132: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:29:07,521: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:29:07,532: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:29:07,550: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:29:07,550: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:29:07,678: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:29:07,687: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:32:22,280: root :INFO:This is an info:
+2021-03-23 14:32:22,280: root :ERROR:This is an error:
+2021-03-23 14:32:22,733: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:32:22,749: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:32:22,749: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:32:22,768: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:32:22,768: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:22,768: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:23,157: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:32:23,169: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:32:23,193: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:23,193: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:23,427: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:23,427: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:23,438: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:23,438: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:23,864: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:32:23,889: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:32:23,889: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:32:23,914: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:32:23,915: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:23,915: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:24,276: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:32:24,291: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:32:24,312: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:24,312: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:24,726: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:32:24,728: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:32:25,033: root :INFO:This is an info:
+2021-03-23 14:32:25,034: root :ERROR:This is an error:
+2021-03-23 14:32:25,632: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:32:25,648: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:32:25,648: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:32:25,669: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:32:25,669: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:25,669: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:26,173: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:32:26,191: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:32:26,238: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:26,238: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:27,023: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:27,023: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:27,037: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:27,037: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:27,674: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:32:27,691: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:32:27,691: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:32:27,712: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:32:27,712: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:27,712: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:28,126: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:32:28,140: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:32:28,161: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:28,161: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:28,328: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:32:28,347: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:32:28,389: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:32:28] "[35m[1mGET /home_page HTTP/1.1[0m" 500 -
+2021-03-23 14:32:28,587: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:32:28] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:32:28,594: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:32:28] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:32:28,595: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:32:28] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:32:28,876: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:32:28] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:32:29,059: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:32:29] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:32:29,132: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:32:29] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:32:46,841: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:32:47,023: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:32:47,797: root :INFO:This is an info:
+2021-03-23 14:32:47,797: root :ERROR:This is an error:
+2021-03-23 14:32:48,310: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:32:48,332: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:32:48,332: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:32:48,355: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:32:48,355: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:48,355: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:48,783: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:32:48,794: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:32:48,814: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:48,814: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:48,991: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:48,991: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:49,050: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:49,050: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:49,478: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:32:49,491: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:32:49,491: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:32:49,512: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:32:49,513: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:49,513: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:49,860: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:32:49,871: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:32:49,888: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:32:49,888: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:32:50,237: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:32:50,244: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:33:17,905: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:33:18,164: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:33:18,487: root :INFO:This is an info:
+2021-03-23 14:33:18,487: root :ERROR:This is an error:
+2021-03-23 14:33:18,895: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:33:18,909: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:33:18,909: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:33:18,939: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:33:18,939: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:33:18,940: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:33:21,236: root :INFO:This is an info:
+2021-03-23 14:33:21,237: root :ERROR:This is an error:
+2021-03-23 14:33:21,759: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:33:21,782: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:33:21,782: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:33:21,806: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:33:21,806: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:33:21,807: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:33:22,142: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:33:22,153: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:33:22,171: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:33:22,171: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:33:22,239: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:33:22,239: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:33:22,249: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:33:22,249: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:33:22,640: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:33:22,652: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:33:22,652: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:33:22,671: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:33:22,671: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:33:22,671: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:33:23,016: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:33:23,027: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:33:23,045: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:33:23,045: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:33:23,194: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:33:23,195: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:33:23,468: root :INFO:This is an info:
+2021-03-23 14:33:23,468: root :ERROR:This is an error:
+2021-03-23 14:33:23,855: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:33:23,869: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:33:23,869: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:33:23,889: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:33:23,889: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:33:23,889: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:33:24,297: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:33:24,308: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:33:24,332: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:33:24,332: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:33:24,403: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:33:24,403: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:33:24,413: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:33:24,413: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:33:24,962: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:33:24,979: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:33:24,979: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:33:25,008: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:33:25,008: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:33:25,009: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:33:25,571: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:33:25,584: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:33:25,604: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:33:25,605: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:33:25,761: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:33:25,771: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:33:25,985: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:33:25] "[35m[1mGET /home_page HTTP/1.1[0m" 500 -
+2021-03-23 14:33:26,145: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:33:26] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:33:26,149: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:33:26] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:33:26,156: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:33:26] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:33:26,360: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:33:26] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:33:26,426: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:33:26] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:33:26,526: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:33:26] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:38:27,792: root :INFO:This is an info:
+2021-03-23 14:38:27,793: root :ERROR:This is an error:
+2021-03-23 14:38:28,374: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:38:28,392: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:38:28,393: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:38:28,421: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:38:28,422: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:38:28,422: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:38:28,810: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:38:28,823: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:38:28,845: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:38:28,845: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:38:29,024: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:38:29,024: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:38:29,035: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:38:29,035: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:38:29,419: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:38:29,430: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:38:29,431: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:38:29,449: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:38:29,449: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:38:29,450: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:38:29,797: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:38:29,808: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:38:29,825: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:38:29,825: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:38:30,171: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:38:30,173: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:38:30,438: root :INFO:This is an info:
+2021-03-23 14:38:30,438: root :ERROR:This is an error:
+2021-03-23 14:38:30,875: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:38:30,888: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:38:30,888: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:38:30,907: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:38:30,907: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:38:30,907: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:38:31,363: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:38:31,376: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:38:31,396: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:38:31,396: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:38:32,027: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:38:32,027: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:38:32,046: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:38:32,046: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:38:32,810: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:38:32,827: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:38:32,827: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:38:32,852: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:38:32,852: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:38:32,852: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:38:33,337: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:38:33,348: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:38:33,370: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:38:33,370: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:38:33,532: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:38:33,543: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:38:33,727: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:38:33] "[35m[1mGET /home_page HTTP/1.1[0m" 500 -
+2021-03-23 14:38:33,930: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:38:33] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:38:33,948: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:38:33] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:38:33,950: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:38:33] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:38:34,166: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:38:34] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:38:34,332: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:38:34] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:38:34,377: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:38:34] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:39:07,396: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:39:07,689: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:39:08,362: root :INFO:This is an info:
+2021-03-23 14:39:08,362: root :ERROR:This is an error:
+2021-03-23 14:39:09,155: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:39:09,237: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:39:09,237: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:39:09,279: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:39:09,280: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:09,280: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:09,991: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:39:10,003: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:39:10,020: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:10,020: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:10,459: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:10,459: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:10,468: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:10,468: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:11,075: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:39:11,092: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:39:11,092: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:39:11,127: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:39:11,128: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:11,128: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:11,672: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:39:11,687: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:39:11,713: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:11,713: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:12,061: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:39:12,074: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:39:15,455: root :INFO:This is an info:
+2021-03-23 14:39:15,456: root :ERROR:This is an error:
+2021-03-23 14:39:15,901: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:39:15,914: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:39:15,914: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:39:15,934: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:39:15,934: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:15,934: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:16,272: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:39:16,282: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:39:16,301: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:16,301: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:16,365: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:16,365: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:16,373: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:16,373: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:16,768: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:39:16,780: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:39:16,780: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:39:16,799: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:39:16,799: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:16,800: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:17,172: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:39:17,183: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:39:17,202: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:17,202: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:17,345: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:39:17,345: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:39:17,631: root :INFO:This is an info:
+2021-03-23 14:39:17,632: root :ERROR:This is an error:
+2021-03-23 14:39:18,241: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:39:18,255: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:39:18,256: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:39:18,279: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:39:18,280: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:18,280: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:18,907: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:39:18,962: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:39:18,992: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:18,994: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:19,255: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:19,256: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:19,267: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:19,267: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:19,775: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:39:19,791: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:39:19,791: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:39:19,812: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:39:19,812: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:19,812: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:20,255: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:39:20,270: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:39:20,296: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:39:20,296: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:39:20,474: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:39:20,486: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:39:20,529: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:39:20] "[35m[1mGET /home_page HTTP/1.1[0m" 500 -
+2021-03-23 14:39:21,106: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:39:21] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:39:21,107: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:39:21] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:39:21,117: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:39:21] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:39:21,789: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:39:21] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:39:22,211: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:39:22] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:39:22,703: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:39:22] "[37mGET /home_page?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:44:42,711: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:44:43,481: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:44:44,323: root :INFO:This is an info:
+2021-03-23 14:44:44,323: root :ERROR:This is an error:
+2021-03-23 14:44:44,904: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:44:44,920: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:44:44,921: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:44:44,942: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:44:44,942: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:44:44,942: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:44:45,381: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:44:45,393: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:44:45,419: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:44:45,420: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:44:46,835: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:44:46,836: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:44:46,859: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:44:46,859: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:44:47,685: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:44:47,697: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:44:47,697: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:44:47,716: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:44:47,716: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:44:47,717: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:44:48,289: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:44:48,301: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:44:48,327: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:44:48,328: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:44:48,729: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:44:48,743: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:45:40,059: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:45:40,252: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:45:41,000: root :INFO:This is an info:
+2021-03-23 14:45:41,001: root :ERROR:This is an error:
+2021-03-23 14:45:41,513: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:45:41,530: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:45:41,531: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:45:41,555: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:45:41,555: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:45:41,555: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:45:41,941: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:45:41,961: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:45:41,999: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:45:42,003: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:45:42,219: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:45:42,226: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:45:42,253: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:45:42,253: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:45:42,676: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:45:42,690: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:45:42,691: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:45:42,713: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:45:42,714: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:45:42,714: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:45:43,117: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:45:43,132: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:45:43,152: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:45:43,152: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:45:43,495: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:45:43,505: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:47:01,209: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:47:01,469: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:47:01,895: root :INFO:This is an info:
+2021-03-23 14:47:01,895: root :ERROR:This is an error:
+2021-03-23 14:47:02,438: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:47:02,454: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:47:02,454: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:47:02,488: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:47:02,489: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:47:02,489: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:47:02,963: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:47:02,984: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:47:03,013: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:47:03,015: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:47:03,107: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:47:03,107: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:47:03,117: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:47:03,117: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:47:03,531: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:47:03,542: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:47:03,543: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:47:03,561: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:47:03,562: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:47:03,562: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:47:03,916: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:47:03,927: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:47:03,945: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:47:03,945: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:47:35,360: root :INFO:This is an info:
+2021-03-23 14:47:35,362: root :ERROR:This is an error:
+2021-03-23 14:47:35,831: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:47:35,845: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:47:35,845: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:47:35,865: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:47:35,865: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:47:35,865: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:47:36,229: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:47:36,242: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:47:36,267: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:47:36,267: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:47:36,438: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:47:36,438: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:47:36,454: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:47:36,454: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:47:36,847: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:47:36,859: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:47:36,859: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:47:36,879: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:47:36,879: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:47:36,879: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:47:37,229: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:47:37,243: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:47:37,263: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:47:37,263: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:48:03,156: root :INFO:This is an info:
+2021-03-23 14:48:03,157: root :ERROR:This is an error:
+2021-03-23 14:48:03,662: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:48:03,679: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:48:03,679: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:48:03,702: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:48:03,702: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:48:03,702: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:48:04,081: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:48:04,094: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:48:04,117: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:48:04,117: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:48:04,327: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:48:04,327: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:48:04,340: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:48:04,340: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:48:04,753: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:48:04,766: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:48:04,766: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:48:04,785: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:48:04,785: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:48:04,785: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:48:05,200: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:48:05,219: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:48:05,247: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:48:05,247: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:48:05,605: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:48:05,607: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:48:05,904: root :INFO:This is an info:
+2021-03-23 14:48:05,904: root :ERROR:This is an error:
+2021-03-23 14:48:06,288: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:48:06,301: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:48:06,301: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:48:06,320: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:48:06,320: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:48:06,320: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:48:06,772: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:48:06,784: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:48:06,804: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:48:06,804: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:48:06,866: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:48:06,866: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:48:06,874: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:48:06,874: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:48:08,096: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:48:08,121: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:48:08,121: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:48:08,180: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:48:08,180: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:48:08,182: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:48:08,845: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:48:08,857: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:48:08,874: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:48:08,874: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:48:09,013: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:48:09,028: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:48:12,127: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:48:12] "[37mGET /home_page HTTP/1.1[0m" 200 -
+2021-03-23 14:48:12,731: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:48:12] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:48:20,028: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:48:20] "[35m[1mGET /form HTTP/1.1[0m" 500 -
+2021-03-23 14:48:20,290: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:48:20] "[37mGET /form?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:48:20,309: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:48:20] "[37mGET /form?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 14:48:20,357: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:48:20] "[37mGET /form?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 14:48:20,607: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:48:20] "[37mGET /form?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 14:48:20,955: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:48:20] "[37mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:48:21,030: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:48:21] "[37mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 14:48:29,514: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:48:29] "[37mGET /home_page HTTP/1.1[0m" 200 -
+2021-03-23 14:48:29,661: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:48:29] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:48:33,711: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:48:33] "[31m[1mPOST /home_page HTTP/1.1[0m" 405 -
+2021-03-23 14:49:06,511: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:49:06,840: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:49:07,666: root :INFO:This is an info:
+2021-03-23 14:49:07,666: root :ERROR:This is an error:
+2021-03-23 14:49:08,161: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:49:08,180: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:49:08,180: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:49:08,202: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:49:08,202: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:08,202: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:08,558: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:49:08,568: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:49:08,590: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:08,590: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:08,774: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:08,774: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:08,783: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:08,785: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:09,203: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:49:09,220: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:49:09,220: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:49:09,240: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:49:09,240: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:09,240: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:09,709: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:49:09,722: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:49:09,741: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:09,741: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:10,098: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:49:10,108: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:49:12,164: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:49:12,394: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:49:12,898: root :INFO:This is an info:
+2021-03-23 14:49:12,899: root :ERROR:This is an error:
+2021-03-23 14:49:13,364: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:49:13,381: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:49:13,381: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:49:13,400: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:49:13,400: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:13,401: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:13,795: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:49:13,806: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:49:13,825: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:13,825: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:13,943: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:13,944: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:13,954: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:13,954: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:14,430: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:49:14,445: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:49:14,445: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:49:14,466: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:49:14,466: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:14,466: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:14,835: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:49:14,856: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:49:14,880: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:14,881: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:15,108: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:49:15,118: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:49:33,510: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:49:33,830: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:49:34,157: root :INFO:This is an info:
+2021-03-23 14:49:34,157: root :ERROR:This is an error:
+2021-03-23 14:49:34,610: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:49:34,623: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:49:34,623: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:49:34,644: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:49:34,644: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:34,644: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:35,071: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:49:35,083: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:49:35,100: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:35,101: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:35,222: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:35,222: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:35,234: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:35,234: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:36,077: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:49:36,095: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:49:36,095: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:49:36,128: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:49:36,128: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:36,128: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:36,702: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:49:36,718: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:49:36,752: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:36,752: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:37,068: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:49:37,077: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:49:46,299: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:49:46] "[31m[1mPOST /home_page HTTP/1.1[0m" 405 -
+2021-03-23 14:49:48,290: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:49:48] "[31m[1mPOST /home_page HTTP/1.1[0m" 405 -
+2021-03-23 14:49:48,970: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:49:48] "[37mGET /home_page HTTP/1.1[0m" 200 -
+2021-03-23 14:49:49,066: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:49:49] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:49:55,494: root :INFO:This is an info:
+2021-03-23 14:49:55,494: root :ERROR:This is an error:
+2021-03-23 14:49:55,874: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:49:55,889: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:49:55,889: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:49:55,913: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:49:55,913: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:55,913: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:56,253: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:49:56,264: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:49:56,281: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:56,281: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:56,487: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:56,488: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:56,502: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:56,502: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:56,959: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:49:56,973: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:49:56,973: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:49:56,991: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:49:56,992: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:56,992: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:57,333: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:49:57,344: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:49:57,362: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:57,362: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:57,515: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:49:57,518: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:49:57,950: root :INFO:This is an info:
+2021-03-23 14:49:57,950: root :ERROR:This is an error:
+2021-03-23 14:49:58,343: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:49:58,357: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:49:58,357: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:49:58,378: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:49:58,378: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:58,378: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:58,790: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:49:58,808: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:49:58,834: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:58,835: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:58,906: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:58,906: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:58,957: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:58,957: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:59,443: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:49:59,464: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:49:59,465: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:49:59,489: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:49:59,489: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:59,489: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:49:59,861: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:49:59,874: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:49:59,895: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:49:59,895: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:50:00,204: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:50:00,214: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:50:01,685: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:50:01] "[31m[1mPOST /home_page HTTP/1.1[0m" 405 -
+2021-03-23 14:52:45,977: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:52:45] "[31m[1mPOST /home_page HTTP/1.1[0m" 405 -
+2021-03-23 14:52:50,883: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:52:50] "[37mGET /home_page HTTP/1.1[0m" 200 -
+2021-03-23 14:52:51,021: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:52:51] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:52:55,213: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:52:55] "[31m[1mPOST /home_page HTTP/1.1[0m" 405 -
+2021-03-23 14:54:01,370: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:54:01] "[37mGET /home_page HTTP/1.1[0m" 200 -
+2021-03-23 14:54:01,591: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:54:01] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:54:06,559: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:54:06] "[31m[1mPOST /home_page HTTP/1.1[0m" 405 -
+2021-03-23 14:54:14,859: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:54:14] "[37mGET /home_page HTTP/1.1[0m" 200 -
+2021-03-23 14:54:14,976: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:54:14] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:54:26,073: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:54:26] "[37mGET /home_page HTTP/1.1[0m" 200 -
+2021-03-23 14:54:26,226: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:54:26] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:54:51,444: root :INFO:This is an info:
+2021-03-23 14:54:51,445: root :ERROR:This is an error:
+2021-03-23 14:54:51,907: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:54:51,924: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:54:51,924: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:54:51,944: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:54:51,944: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:54:51,944: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:54:52,292: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:54:52,305: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:54:52,326: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:54:52,326: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:54:52,539: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:54:52,540: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:54:52,556: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:54:52,557: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:54:53,011: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:54:53,023: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:54:53,024: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:54:53,043: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:54:53,043: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:54:53,043: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:54:53,391: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:54:53,406: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:54:53,431: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:54:53,431: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:54:53,794: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:54:53,796: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:54:54,046: root :INFO:This is an info:
+2021-03-23 14:54:54,047: root :ERROR:This is an error:
+2021-03-23 14:54:54,419: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:54:54,432: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:54:54,432: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:54:54,453: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:54:54,453: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:54:54,453: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:54:54,840: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:54:54,853: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:54:54,872: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:54:54,872: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:54:54,979: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:54:54,979: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:54:54,988: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:54:54,988: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:54:55,545: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:54:55,566: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:54:55,566: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:54:55,587: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:54:55,587: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:54:55,587: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:54:56,016: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:54:56,027: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:54:56,045: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:54:56,045: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:54:56,166: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:54:56,180: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:54:58,900: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:54:58] "[37mGET /home_page HTTP/1.1[0m" 200 -
+2021-03-23 14:54:59,070: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:54:59] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:55:01,851: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:55:01] "[31m[1mPOST /home_page HTTP/1.1[0m" 405 -
+2021-03-23 14:55:05,769: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:55:05] "[37mGET /home_page HTTP/1.1[0m" 200 -
+2021-03-23 14:55:05,930: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:55:05] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:56:32,479: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:56:32,934: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:56:33,832: root :INFO:This is an info:
+2021-03-23 14:56:33,832: root :ERROR:This is an error:
+2021-03-23 14:56:34,495: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:56:34,525: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:56:34,525: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:56:34,580: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:56:34,581: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:56:34,581: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:56:35,132: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:56:35,144: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:56:35,162: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:56:35,162: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:56:35,379: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:56:35,379: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:56:35,391: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:56:35,391: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:56:35,883: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:56:35,895: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:56:35,895: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:56:35,915: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:56:35,915: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:56:35,915: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:56:36,266: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:56:36,286: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:56:36,316: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:56:36,316: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:56:36,670: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:56:36,676: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:56:51,815: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:56:51] "[32mGET /home_page HTTP/1.1[0m" 308 -
+2021-03-23 14:56:51,914: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:56:51] "[37mGET /home_page/ HTTP/1.1[0m" 200 -
+2021-03-23 14:56:52,135: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:56:52] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:56:55,318: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:56:55] "[37mPOST /form HTTP/1.1[0m" 200 -
+2021-03-23 14:57:21,960: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:57:22,285: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:57:23,261: root :INFO:This is an info:
+2021-03-23 14:57:23,261: root :ERROR:This is an error:
+2021-03-23 14:57:23,924: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:57:23,960: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:57:23,960: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:57:24,005: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:57:24,006: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:24,006: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:24,510: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:57:24,521: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:57:24,539: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:24,539: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:24,917: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:24,917: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:24,930: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:24,930: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:26,093: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:57:26,111: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:57:26,111: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:57:26,147: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:57:26,148: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:26,148: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:27,579: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:57:27,693: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:57:27,774: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:27,774: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:28,548: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:57:28,579: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:57:47,845: root :INFO:This is an info:
+2021-03-23 14:57:47,847: root :ERROR:This is an error:
+2021-03-23 14:57:48,270: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:57:48,286: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:57:48,286: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:57:48,306: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:57:48,307: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:48,307: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:48,642: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:57:48,653: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:57:48,670: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:48,670: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:48,892: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:48,892: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:48,908: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:48,908: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:49,284: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:57:49,296: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:57:49,296: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:57:49,315: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:57:49,315: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:49,315: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:49,663: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:57:49,674: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:57:49,691: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:49,691: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:50,047: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 14:57:50,049: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:57:50,313: root :INFO:This is an info:
+2021-03-23 14:57:50,313: root :ERROR:This is an error:
+2021-03-23 14:57:50,722: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:57:50,736: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:57:50,736: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:57:50,756: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:57:50,756: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:50,757: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:51,168: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:57:51,179: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:57:51,199: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:51,199: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:51,263: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:51,263: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:51,277: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:51,278: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:52,163: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:57:52,180: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:57:52,180: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:57:52,211: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:57:52,211: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:52,211: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:52,761: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:57:52,773: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:57:52,858: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:57:52,861: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:57:53,679: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:57:53,698: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 14:58:00,222: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:58:00] "[32mGET /home_page HTTP/1.1[0m" 308 -
+2021-03-23 14:58:00,258: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:58:00] "[37mGET /home_page/ HTTP/1.1[0m" 200 -
+2021-03-23 14:58:00,393: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:58:00] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 14:58:07,141: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 14:58:07] "[37mPOST /form HTTP/1.1[0m" 200 -
+2021-03-23 14:59:03,748: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 14:59:04,457: werkzeug :INFO: * Restarting with stat
+2021-03-23 14:59:05,313: root :INFO:This is an info:
+2021-03-23 14:59:05,313: root :ERROR:This is an error:
+2021-03-23 14:59:05,876: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:59:05,906: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:59:05,906: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:59:05,928: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:59:05,928: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:59:05,928: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:59:06,556: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:59:06,577: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:59:06,615: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:59:06,616: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:59:06,803: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:59:06,803: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:59:06,814: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:59:06,814: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:59:07,275: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 14:59:07,289: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 14:59:07,289: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 14:59:07,308: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 14:59:07,308: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:59:07,308: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:59:07,712: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 14:59:07,722: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 14:59:07,740: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 14:59:07,740: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 14:59:08,097: werkzeug :WARNING: * Debugger is active!
+2021-03-23 14:59:08,108: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 15:00:46,150: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:46] "[35m[1mPOST /form HTTP/1.1[0m" 500 -
+2021-03-23 15:00:46,330: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:46] "[37mGET /form?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 15:00:46,330: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:46] "[37mGET /form?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 15:00:46,331: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:46] "[37mGET /form?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 15:00:46,721: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:46] "[37mGET /form?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 15:00:47,223: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:47] "[37mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 15:00:47,412: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:47] "[37mGET /home_page/ HTTP/1.1[0m" 200 -
+2021-03-23 15:00:47,497: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:47] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 15:00:49,459: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:49] "[35m[1mPOST /form HTTP/1.1[0m" 500 -
+2021-03-23 15:00:49,559: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:49] "[37mGET /form?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 15:00:49,568: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:49] "[37mGET /form?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 15:00:49,578: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:49] "[37mGET /form?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 15:00:49,796: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:49] "[37mGET /form?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 15:00:49,975: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:49] "[37mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 15:00:50,317: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:00:50] "[37mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 15:01:14,110: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 15:01:14,443: werkzeug :INFO: * Restarting with stat
+2021-03-23 15:01:15,425: root :INFO:This is an info:
+2021-03-23 15:01:15,425: root :ERROR:This is an error:
+2021-03-23 15:01:15,910: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 15:01:15,929: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 15:01:15,929: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 15:01:15,949: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 15:01:15,949: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:15,949: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:16,357: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 15:01:16,370: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 15:01:16,389: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:16,389: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:16,648: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:16,648: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:16,657: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:16,661: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:17,076: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 15:01:17,088: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 15:01:17,088: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 15:01:17,109: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 15:01:17,109: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:17,109: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:17,506: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 15:01:17,522: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 15:01:17,541: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:17,541: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:17,893: werkzeug :WARNING: * Debugger is active!
+2021-03-23 15:01:17,907: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 15:01:21,992: werkzeug :INFO: * Detected change in '/Users/tiphaineminguet/Desktop/Simplon/Mail_sender /api.py', reloading
+2021-03-23 15:01:22,332: werkzeug :INFO: * Restarting with stat
+2021-03-23 15:01:23,091: root :INFO:This is an info:
+2021-03-23 15:01:23,091: root :ERROR:This is an error:
+2021-03-23 15:01:23,738: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 15:01:23,759: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 15:01:23,760: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 15:01:23,792: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 15:01:23,793: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:23,793: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:24,242: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 15:01:24,254: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 15:01:24,274: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:24,274: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:24,352: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:24,352: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:24,461: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:24,462: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:24,914: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 15:01:24,930: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 15:01:24,930: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 15:01:24,950: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 15:01:24,950: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:24,950: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:25,343: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 15:01:25,354: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 15:01:25,373: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:25,373: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:25,496: werkzeug :WARNING: * Debugger is active!
+2021-03-23 15:01:25,503: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 15:01:29,034: root :INFO:This is an info:
+2021-03-23 15:01:29,035: root :ERROR:This is an error:
+2021-03-23 15:01:29,825: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 15:01:29,842: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 15:01:29,842: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 15:01:29,864: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 15:01:29,864: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:29,864: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:30,282: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 15:01:30,295: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 15:01:30,315: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:30,315: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:30,382: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:30,383: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:30,390: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:30,391: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:30,823: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 15:01:30,836: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 15:01:30,837: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 15:01:30,860: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 15:01:30,860: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:30,860: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:31,219: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 15:01:31,230: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 15:01:31,249: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:31,249: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:31,371: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 15:01:31,371: werkzeug :INFO: * Restarting with stat
+2021-03-23 15:01:31,632: root :INFO:This is an info:
+2021-03-23 15:01:31,633: root :ERROR:This is an error:
+2021-03-23 15:01:32,067: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 15:01:32,084: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 15:01:32,084: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 15:01:32,108: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 15:01:32,108: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:32,108: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:32,476: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 15:01:32,489: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 15:01:32,508: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:32,508: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:32,753: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:32,753: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:32,804: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:32,804: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:33,292: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 15:01:33,319: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 15:01:33,319: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 15:01:33,353: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 15:01:33,353: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:33,354: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:33,725: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 15:01:33,735: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 15:01:33,752: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:01:33,753: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:01:33,884: werkzeug :WARNING: * Debugger is active!
+2021-03-23 15:01:33,893: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 15:01:36,565: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:01:36] "[32mGET /home_page HTTP/1.1[0m" 308 -
+2021-03-23 15:01:36,592: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:01:36] "[37mGET /home_page/ HTTP/1.1[0m" 200 -
+2021-03-23 15:01:36,758: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:01:36] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 15:01:39,541: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:01:39] "[35m[1mPOST /form HTTP/1.1[0m" 500 -
+2021-03-23 15:01:39,634: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:01:39] "[37mGET /form?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 15:01:39,635: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:01:39] "[37mGET /form?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 15:01:39,636: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:01:39] "[37mGET /form?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 15:01:39,872: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:01:39] "[37mGET /form?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 15:01:40,033: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:01:40] "[37mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 15:04:11,820: root :INFO:This is an info:
+2021-03-23 15:04:11,822: root :ERROR:This is an error:
+2021-03-23 15:04:12,250: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 15:04:12,265: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 15:04:12,265: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 15:04:12,286: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 15:04:12,286: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:04:12,286: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:04:12,640: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 15:04:12,651: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 15:04:12,669: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:04:12,669: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:04:13,186: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:04:13,186: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:04:13,202: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:04:13,202: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:04:13,772: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 15:04:13,784: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 15:04:13,784: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 15:04:13,803: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 15:04:13,803: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:04:13,803: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:04:14,170: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 15:04:14,181: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 15:04:14,199: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:04:14,199: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:04:14,524: werkzeug :INFO: * Running on http://0.0.0.0:3050/ (Press CTRL+C to quit)
+2021-03-23 15:04:14,526: werkzeug :INFO: * Restarting with stat
+2021-03-23 15:04:14,779: root :INFO:This is an info:
+2021-03-23 15:04:14,779: root :ERROR:This is an error:
+2021-03-23 15:04:15,162: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 15:04:15,175: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 15:04:15,175: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 15:04:15,194: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 15:04:15,194: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:04:15,194: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:04:15,571: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 15:04:15,590: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 15:04:15,613: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:04:15,616: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:04:15,687: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:04:15,688: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:04:15,696: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:04:15,696: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:04:16,230: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 15:04:16,246: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 15:04:16,247: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 15:04:16,281: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 15:04:16,281: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:04:16,281: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:04:16,719: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 15:04:16,731: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 15:04:16,749: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 15:04:16,749: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 15:04:16,932: werkzeug :WARNING: * Debugger is active!
+2021-03-23 15:04:16,952: werkzeug :INFO: * Debugger PIN: 186-744-637
+2021-03-23 15:04:17,503: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:04:17] "[37mGET /home_page/ HTTP/1.1[0m" 200 -
+2021-03-23 15:04:17,647: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:04:17] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 15:04:21,498: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:04:21] "[37mPOST /form HTTP/1.1[0m" 200 -
+2021-03-23 15:04:21,646: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:04:21] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 15:05:01,468: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:01] "[37mGET /home_page/ HTTP/1.1[0m" 200 -
+2021-03-23 15:05:01,633: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:01] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 15:05:05,293: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:05] "[35m[1mPOST /form HTTP/1.1[0m" 500 -
+2021-03-23 15:05:05,423: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:05] "[37mGET /form?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+2021-03-23 15:05:05,430: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:05] "[37mGET /form?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+2021-03-23 15:05:05,438: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:05] "[37mGET /form?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+2021-03-23 15:05:05,655: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:05] "[37mGET /form?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+2021-03-23 15:05:05,861: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:05] "[37mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 15:05:05,938: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:05] "[37mGET /form?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+2021-03-23 15:05:10,878: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:10] "[37mGET /home_page/ HTTP/1.1[0m" 200 -
+2021-03-23 15:05:10,961: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:10] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 15:05:15,736: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:15] "[37mPOST /form HTTP/1.1[0m" 200 -
+2021-03-23 15:05:15,874: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:15] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
