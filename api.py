@@ -21,20 +21,31 @@ conn = psycopg2.connect(conn_string)'''
 
 cursor = conn.cursor()
 
-@app.route('/home_page')
+@app.route('/home_page/')
 def welcome(): 
-    return render_template ("index.html")
-    #if request.method == "POST":
-        #user_email= request.form.get("email")
-        #return render_template("index.html")    
+        return render_template("index.html")
+        
 
-@app.route('/api')
+@app.route('/form', methods=["GET", "POST"])
+def form(): 
+    if request.method == "GET":
+        return "ERROR"
+    if request.method == "POST":
+        user_email=request.form["email"]
+        #cursor.execute("CREATE TABLE IF NOT EXISTS User (Id SERIAL PRIMARY KEY, User VARCHAR(255)")
+        #cursor.execute("INSERT INTO User VALUES (%s)", (user_email))
+        #conn.commit()
+        sendmail(user_email)
+        #return user_email
+        return render_template ("form.html")
+          
+'''@app.route('/api')
 def api():
     cursor.execute("SELECT * FROM Carpet, Mirror WHERE Carpet.ID = Mirror.ID ORDER BY Carpet.ID")
     output = cursor.fetchall()
     return jsonify(output)
 
-'''@app.route('/api_carpet')
+@app.route('/api_carpet')
 def api_carpet(): 
     cursor.execute("SELECT * FROM Carpet")
     output = cursor.fetchall()
