@@ -15,6 +15,8 @@ Creating a classic front-end interface where the user can enter its email and re
 
 ### Command lines 
 
+🚨 Important to open the default port of psql on Azure: port 5432. 
+
 ##### On VM 
 First step was to create the VM on **Azure** and install **Portgresql** to store our database and tables on it.
 Access your VM on your terminal and set up your psql password with the following : 
@@ -27,6 +29,16 @@ Access your VM on your terminal and set up your psql password with the following
 - `sudo service postgresql restart`
 
 ##### Locally 
+
+- `az login`
+- `git clone <repolink>`
+- `python3 -m venv .venv source .venv/bin/activate `
+- `pip install -r requirements.txt`
+- `flask run`
+- ` az webapp up --sku B1 --name <nameofurapp>` 
+- `az webapp up`
+
+
 
 
 
