@@ -15,6 +15,7 @@ Creating a classic front-end interface where the user can enter its email and re
 
 ### Command lines 
 
+##### On VM 
 First step was to create the VM on **Azure** and install **Portgresql** to store our database and tables on it.
 Access your VM on your terminal and set up your psql password with the following : 
 - `ssh -i <File/Path/To/Your/privatekey.pem> <yourazureusername>@<ipadresseofVM>`
@@ -22,8 +23,11 @@ Access your VM on your terminal and set up your psql password with the following
 - `sudo apt install postgresql`
 - `sudo -i -u postgres`
 - `postgres`
-- `\ passord postgres`
+- `\ password postgres`
 - `sudo service postgresql restart`
+
+##### Locally 
+
 
 
 
