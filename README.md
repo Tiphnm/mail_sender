@@ -8,9 +8,8 @@ Creating a classic front-end interface where the user can enter its email and re
 
 ### Files and scripts architecture 
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/Tiphnm/mail_sender/blob/master/Architecture.png" width="350" title="hover text">
 </p>
 
-https://github.com/Tiphnm/mail_sender/blob/master/Architecture.png
 
