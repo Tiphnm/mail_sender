@@ -2479,3 +2479,213 @@
 2021-03-23 15:05:10,961: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:10] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
 2021-03-23 15:05:15,736: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:15] "[37mPOST /form HTTP/1.1[0m" 200 -
 2021-03-23 15:05:15,874: werkzeug :INFO:127.0.0.1 - - [23/Mar/2021 15:05:15] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+2021-03-23 22:10:22,243: root :INFO:This is an info:
+2021-03-23 22:10:22,243: root :ERROR:This is an error:
+2021-03-23 22:10:24,579: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 22:10:24,596: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 22:10:24,596: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 22:10:24,619: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 22:10:24,619: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 22:10:24,619: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 22:10:25,258: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 22:10:25,270: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 22:10:25,288: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 22:10:25,288: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 22:44:45,146: root :INFO:This is an info:
+2021-03-23 22:44:45,148: root :ERROR:This is an error:
+2021-03-23 22:44:45,982: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 22:44:46,000: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 22:44:46,000: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 22:44:46,020: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 22:44:46,020: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 22:44:46,020: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 22:44:46,733: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 22:44:46,744: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 22:44:46,769: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 22:44:46,769: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 22:57:46,673: root :INFO:This is an info:
+2021-03-23 22:57:46,674: root :ERROR:This is an error:
+2021-03-23 22:57:47,450: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 22:57:47,468: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 22:57:47,468: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 22:57:47,489: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 22:57:47,489: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 22:57:47,489: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 22:57:49,155: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 22:57:49,166: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 22:57:49,183: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 22:57:49,184: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:17:28,763: root :INFO:This is an info:
+2021-03-23 23:17:28,764: root :ERROR:This is an error:
+2021-03-23 23:17:29,504: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 23:17:29,523: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 23:17:29,523: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 23:17:29,546: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 23:17:29,546: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:17:29,546: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:17:31,111: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 23:17:31,121: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 23:17:31,140: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:17:31,140: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:21:52,455: root :INFO:This is an info:
+2021-03-23 23:21:52,457: root :ERROR:This is an error:
+2021-03-23 23:21:55,217: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 23:21:55,242: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 23:21:55,242: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 23:21:55,287: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 23:21:55,288: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:21:55,288: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:21:56,857: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 23:21:56,869: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 23:21:56,890: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:21:56,890: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:33:34,295: root :INFO:This is an info:
+2021-03-23 23:33:34,297: root :ERROR:This is an error:
+2021-03-23 23:33:35,135: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 23:33:35,154: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 23:33:35,154: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 23:33:35,177: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 23:33:35,177: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:33:35,177: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:33:35,917: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 23:33:35,929: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 23:33:35,950: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:33:35,950: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:52:41,504: root :INFO:This is an info:
+2021-03-23 23:52:41,508: root :ERROR:This is an error:
+2021-03-23 23:52:43,999: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 23:52:44,018: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 23:52:44,018: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 23:52:44,042: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 23:52:44,042: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:52:44,042: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:52:45,378: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 23:52:45,389: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 23:52:45,411: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:52:45,411: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:52:59,299: root :INFO:This is an info:
+2021-03-23 23:52:59,299: root :ERROR:This is an error:
+2021-03-23 23:53:00,191: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 23:53:00,207: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 23:53:00,207: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 23:53:00,232: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 23:53:00,232: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:53:00,232: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:53:01,960: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 23:53:01,976: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 23:53:01,998: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:53:01,998: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:53:04,996: root :INFO:This is an info:
+2021-03-23 23:53:04,996: root :ERROR:This is an error:
+2021-03-23 23:53:05,834: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 23:53:05,853: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 23:53:05,853: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 23:53:05,879: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 23:53:05,879: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:53:05,879: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:53:06,871: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 23:53:06,885: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 23:53:06,906: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:53:06,906: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:53:34,309: root :INFO:This is an info:
+2021-03-23 23:53:34,311: root :ERROR:This is an error:
+2021-03-23 23:53:36,901: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-23 23:53:36,954: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-23 23:53:36,954: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-23 23:53:37,030: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-23 23:53:37,031: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:53:37,031: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:53:38,732: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-23 23:53:38,757: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-23 23:53:38,838: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:53:38,848: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:53:40,342: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:53:40,342: root :INFO:Zipping all my lists in tuple: end
+2021-03-23 23:53:46,647: root :INFO:Zipping all my lists in tuple: start
+2021-03-23 23:53:46,649: root :INFO:Zipping all my lists in tuple: end
+2021-03-24 00:00:25,708: root :INFO:This is an info:
+2021-03-24 00:00:25,709: root :ERROR:This is an error:
+2021-03-24 00:00:27,107: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-24 00:00:27,129: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-24 00:00:27,129: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-24 00:00:27,155: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-24 00:00:27,155: root :INFO:Zipping all my lists in tuple: start
+2021-03-24 00:00:27,155: root :INFO:Zipping all my lists in tuple: end
+2021-03-24 00:00:27,903: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-24 00:00:27,916: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-24 00:00:27,944: root :INFO:Zipping all my lists in tuple: start
+2021-03-24 00:00:27,944: root :INFO:Zipping all my lists in tuple: end
+2021-03-24 00:00:52,431: root :INFO:This is an info:
+2021-03-24 00:00:52,431: root :ERROR:This is an error:
+2021-03-24 00:00:53,337: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-24 00:00:53,353: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-24 00:00:53,353: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-24 00:00:53,374: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-24 00:00:53,374: root :INFO:Zipping all my lists in tuple: start
+2021-03-24 00:00:53,375: root :INFO:Zipping all my lists in tuple: end
+2021-03-24 00:00:54,190: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-24 00:00:54,208: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-24 00:00:54,236: root :INFO:Zipping all my lists in tuple: start
+2021-03-24 00:00:54,236: root :INFO:Zipping all my lists in tuple: end
+2021-03-24 00:01:35,170: root :INFO:This is an info:
+2021-03-24 00:01:35,171: root :ERROR:This is an error:
+2021-03-24 00:01:36,352: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-24 00:01:36,377: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-24 00:01:36,377: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-24 00:01:36,408: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-24 00:01:36,409: root :INFO:Zipping all my lists in tuple: start
+2021-03-24 00:01:36,409: root :INFO:Zipping all my lists in tuple: end
+2021-03-24 00:01:38,025: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-24 00:01:38,044: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-24 00:01:38,072: root :INFO:Zipping all my lists in tuple: start
+2021-03-24 00:01:38,072: root :INFO:Zipping all my lists in tuple: end
+2021-03-24 00:03:06,414: root :INFO:This is an info:
+2021-03-24 00:03:06,416: root :ERROR:This is an error:
+2021-03-24 00:03:07,866: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-24 00:03:07,885: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-24 00:03:07,885: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-24 00:03:07,908: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-24 00:03:07,908: root :INFO:Zipping all my lists in tuple: start
+2021-03-24 00:03:07,908: root :INFO:Zipping all my lists in tuple: end
+2021-03-24 00:03:09,240: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-24 00:03:09,255: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-24 00:03:09,274: root :INFO:Zipping all my lists in tuple: start
+2021-03-24 00:03:09,274: root :INFO:Zipping all my lists in tuple: end
+2021-03-24 00:03:10,617: root :INFO:Zipping all my lists in tuple: start
+2021-03-24 00:03:10,618: root :INFO:Zipping all my lists in tuple: end
+2021-03-24 00:03:16,649: root :INFO:Zipping all my lists in tuple: start
+2021-03-24 00:03:16,649: root :INFO:Zipping all my lists in tuple: end
+2021-03-24 16:19:06,519: root :INFO:This is an info:
+2021-03-24 16:19:06,521: root :ERROR:This is an error:
+2021-03-24 16:19:07,332: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-24 16:19:07,350: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-24 16:19:07,350: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-24 16:19:07,370: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-24 16:19:07,370: root :INFO:Zipping all my lists in tuple: start
+2021-03-24 16:19:07,370: root :INFO:Zipping all my lists in tuple: end
+2021-03-24 16:19:08,020: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-24 16:19:08,032: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-24 16:19:08,050: root :INFO:Zipping all my lists in tuple: start
+2021-03-24 16:19:08,050: root :INFO:Zipping all my lists in tuple: end
+2021-03-24 16:19:09,402: root :INFO:Zipping all my lists in tuple: start
+2021-03-24 16:19:09,403: root :INFO:Zipping all my lists in tuple: end
+2021-03-24 16:19:14,228: root :INFO:Zipping all my lists in tuple: start
+2021-03-24 16:19:14,228: root :INFO:Zipping all my lists in tuple: end
+2021-03-27 12:11:26,998: root :INFO:This is an info:
+2021-03-27 12:11:27,000: root :ERROR:This is an error:
+2021-03-27 12:11:28,558: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-27 12:11:28,579: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-27 12:11:28,579: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-27 12:11:28,610: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-27 12:11:28,610: root :INFO:Zipping all my lists in tuple: start
+2021-03-27 12:11:28,611: root :INFO:Zipping all my lists in tuple: end
+2021-03-27 12:11:29,329: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-27 12:11:29,340: root :INFO:Getting my mirror price from HTML into a list: start
+2021-03-27 12:11:29,359: root :INFO:Zipping all my lists in tuple: start
+2021-03-27 12:11:29,359: root :INFO:Zipping all my lists in tuple: end
+2021-03-27 12:11:31,742: root :INFO:Getting my carpets name from HTML into a list: start
+2021-03-27 12:11:31,756: root :INFO:Getting my carpets name from HTML into a list: end
+2021-03-27 12:11:32,471: root :INFO:Getting my carpets price from HTML into a list: start
+2021-03-27 12:11:32,490: root :INFO:Getting my carpets price from HTML into a list: end
+2021-03-27 12:11:33,163: root :INFO:Getting my mirros name from HTML into a list: start
+2021-03-27 12:11:33,868: root :INFO:Getting my mirror price from HTML into a list: start

@@ -116,17 +116,3 @@ m = Mirror()
 m.name_mirror()
 m.price_mirror()
 m.zip_list_mirror()
-
-def sendmail(receivers):
-    sender = "tminguet.simplon@gmail.com"
-    body_of_email = "Something is new on Maison du Monde, go check! "
-
-    msg = MIMEText(body_of_email, "html")
-    msg["Subject"] = "Scrapping Text"
-    msg["From"] = sender
-    msg["To"] = receivers
-
-    s = smtplib.SMTP_SSL(host = "smtp.gmail.com", port = 465)
-    s.login(user="tminguet.simplon@gmail.com", password="simplon2021")
-    s.sendmail(sender, receivers, msg.as_string())
-    s.quit()

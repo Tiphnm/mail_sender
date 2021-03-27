@@ -1,44 +1,49 @@
-from main import *
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request
 import psycopg2
 
 app = Flask(__name__)
 
+host="23.96.93.237"
+dbname="postgres"
+user="postgres"
+password="123"
 
-host = "localhost"
-dbname = "postgres"
-
-conn_string = "host={0} dbname={1}".format(host, dbname)
+conn_string = "host={0} dbname={1} user={2} password={3}".format(host, dbname, user, password)
 conn = psycopg2.connect(conn_string)
-
-'''host = "localhost"
-dbname = "postgres"
-user = "postgres"
-password = "123"
-
-conn_string = "host={0} user={1} dbname={2} password={3}".format(host, user, dbname, password)
-conn = psycopg2.connect(conn_string)'''
 
 cursor = conn.cursor()
 
-@app.route('/home_page/')
+def get_data(email_user): 
+    host="23.96.93.237"
+    dbname="postgres"
+    user="postgres"
+    password="123"
+
+    conn_string = "host={0} dbname={1} user={2} password={3}".format(host, dbname, user, password)
+    conn = psycopg2.connect(conn_string)
+
+    cursor = conn.cursor()
+    print(f"INSERT INTO email_adress (email) VALUES ('{email_user}')")
+    cursor.execute(f"INSERT INTO email_adress (email) VALUES ('{email_user}')")
+    #email_sql = f"INSERT INTO email_adress (email) VALUES ('{email_user}')"
+    #cursor.execute(email_sql)
+
+    conn.commit()
+
+@app.route('/home')
 def welcome(): 
         return render_template("index.html")
-        
 
 @app.route('/form', methods=["GET", "POST"])
 def form(): 
-    if request.method == "GET":
-        return "ERROR"
     if request.method == "POST":
         user_email=request.form["email"]
-        #cursor.execute("CREATE TABLE IF NOT EXISTS User (Id SERIAL PRIMARY KEY, User VARCHAR(255)")
-        #cursor.execute("INSERT INTO User VALUES (%s)", (user_email))
-        #conn.commit()
-        sendmail(user_email)
-        #return user_email
+        print(user_email)
+        get_data(user_email)
+        #sendmail(user_email)
+
         return render_template ("form.html")
-          
+
 '''@app.route('/api')
 def api():
     cursor.execute("SELECT * FROM Carpet, Mirror WHERE Carpet.ID = Mirror.ID ORDER BY Carpet.ID")
