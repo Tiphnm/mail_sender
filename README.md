@@ -15,7 +15,7 @@ Creating a classic front-end interface where the user can enter its email and re
 
 ### Command lines 
 
-🚨 Important to open the default port of psql on Azure: port 5432. 
+🚨 Important to open the default port of psql on Azure: port **5432**. 
 
 ##### On VM 
 First step was to create the VM on **Azure** and install **Portgresql** to store our database and tables on it.
