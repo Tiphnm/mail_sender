@@ -11,7 +11,7 @@ Creating a classic front-end interface where the user can enter its email and re
 
 My work is divided in two files, one for the scrap and the other one within the first to build the interface and connect the psql to my webpage. What changed regarding my previous work is the **HTML/CSS**, the **postgres.py** -addding a table to store the email of my users- and also my **mail.py** fully dedicated to sent email to my users and specific data from my database. 
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/Tiphnm/mail_sender/blob/master/Architecture.png" width="350" title="hover text">
 </p>
 
